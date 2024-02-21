@@ -44,5 +44,7 @@ If you believe that the video stream is progressing slowly, you can adjust the D
 Additionally, you can use the program simultaneously via your mobile phone's camera.
 ## Authors
 Ahmet Çoko
+
 Hüseyin Kanat
+
 Yusuf Bayındır
