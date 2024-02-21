@@ -1,3 +1,10 @@
+## Authors
+Ahmet Çoko
+
+Hüseyin Kanat
+
+Yusuf Bayındır
+
 ## Dependencies
 
 PyQt5: Used for creating the graphical user interface.
@@ -42,9 +49,3 @@ After clicking the "Start Analyze" button, the top-left window of the three wind
 
 If you believe that the video stream is progressing slowly, you can adjust the DETECTION_FREQUENCY variable to determine how often the process should be repeated, in terms of frames.
 Additionally, you can use the program simultaneously via your mobile phone's camera.
-## Authors
-Ahmet Çoko
-
-Hüseyin Kanat
-
-Yusuf Bayındır
