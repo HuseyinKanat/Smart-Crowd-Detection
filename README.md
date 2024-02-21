@@ -1,4 +1,4 @@
-##Dependencies
+## Dependencies
 
 PyQt5: Used for creating the graphical user interface.
 
@@ -9,7 +9,7 @@ NumPy: Employed for numerical operations and array manipulation.
 Ultralytics YOLO: Utilized for object detection tasks.
 
 
-##Overview
+## Overview
 
 Smart Crowd Detection is a project developed as part of a CENG483(Behavioral Robotics) course term project. The aim of this project is a simultaneous and total bird's eye heat map visualization that provides an intuitive visualization of high-traffic areas and tracks the movements of individuals with the help of YOLOv8  in the space using the homography transformation method over a single camera orientation by assigning different color intensities to different areas depending on the density of pedestrian traffic, the heat map can provide valuable information on space usage and passenger behavior by highlighting areas with high activity or traffic congestion.
 
@@ -42,9 +42,7 @@ After clicking the "Start Analyze" button, the top-left window of the three wind
 
 If you believe that the video stream is progressing slowly, you can adjust the DETECTION_FREQUENCY variable to determine how often the process should be repeated, in terms of frames.
 Additionally, you can use the program simultaneously via your mobile phone's camera.
-##Authors 
+## Authors
 Ahmet Çoko
 Hüseyin Kanat
 Yusuf Bayındır
-
-
